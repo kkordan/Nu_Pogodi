@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>full-screen.png</file>
+    <file>icons8-question-mark-100.png</file>
+    <file>egg_leg_break_broken_chicken_icon_219659.png</file>
+    <file>VDL.png</file>
+    <file>fon2.png</file>
+    <file>VDR.png</file>
+    <file>VUL.png</file>
+    <file>VUR.png</file>
+    <file>volume.png</file>
+    <file>mute.png</file>
+    <file>EGG.png</file>
+  </qresource>
+</RCC>
